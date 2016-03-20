@@ -10,17 +10,17 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/hyn/multi-tenant/issues",
-        "source": "https://github.com/hyn/multi-tenant",
+        "issues": "https://github.com/orbex/multi-tenant/issues",
+        "source": "https://github.com/orbex/multi-tenant",
         "docs": "https://hyn.readme.io"
     },
     "require": {
         "php": ">=5.5.9",
-        "hyn/framework": "*",
-        "hyn/webserver": "*"
+        "orbex/framework": "*",
+        "orbex/webserver": "*"
     },
     "suggest": {
-        "hyn/management-interface": "Provides a user interface for managing multi tenancy"
+        "orbex/management-interface": "Provides a user interface for managing multi tenancy"
     },
     "require-dev": {
         "phpunit/phpunit" : "5.*",
